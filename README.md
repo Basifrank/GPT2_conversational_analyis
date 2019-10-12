@@ -38,6 +38,9 @@ The team task is to train and fine-tune the model with Kaggle ubuntu data and ma
 •	temperature
 •	top_k 
 
+## colab link
+- https://colab.research.google.com/drive/1z9USq-MDuaSvdSTMgFc_Y_xn2Rx2Y_1Q
+
 # Findings/Observations
 
 -	For generate_unconditional_samples.py --top_k 40 --temperature 1 --model_name 345M, model generated articles continuously, ended when the program was abruptly stopped at the run command.
